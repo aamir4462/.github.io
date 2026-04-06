@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Initialize Web3Forms
-    const WEB3FORMS_ACCESS_KEY = "190bdca6-5176-433c-8c72-bd31dccaf198";
+    const WEB3FORMS_ACCESS_KEY = "3300982e-10c2-4b2b-8008-1c17a7714308";
 
     // Dynamic Year Update
     const yearSpan = document.getElementById('current-year');
